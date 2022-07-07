@@ -1,4 +1,4 @@
-# Graph SDK
+# TypeScript Webpack SDK Boilerplate
 
 ## Project setup
 
